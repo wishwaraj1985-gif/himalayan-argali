@@ -76,6 +76,23 @@ The sequencing rests on one judgement: **coherence before expansion.** A store t
 
 Phases 1 and 2 are genuinely sequential — structure before content. Phase 5 can run alongside 3 and 4 and arguably should, since the workflow protects the work being done. Phase 4 is not optional for Nourish; claims discipline is a launch prerequisite there, not a follow-up.
 
+## Parked ideas
+
+Ideas worth keeping that are not scheduled. Each names the condition for picking it up.
+
+### Animated collage explainers for social video
+
+Short vertical (1080×1920) explainer videos for Reels, TikTok and Shorts, built from AI-generated collage pieces (Higgsfield) animated in code by Claude with the `/motion-studio` skill and a recorded voiceover. Reported cost is about 40 Higgsfield credits per video; the animation itself is free.
+
+- **Why it fits:** HA has stories that benefit from explanation — Ladakh provenance for honey and sea buckthorn, and the four pillars.
+- **Pick up when:** the Website Master Plan is approved and at least one Phase 3 hero product is live, so videos have somewhere to send people.
+- **Conditions before use:**
+  - AI imagery stays clearly illustrative (paper-collage style). Real products, places, and people are shown with real photography only — AI images must never stand in for provenance evidence (see Phase 4).
+  - Confirm Higgsfield's terms allow commercial use on the plan held.
+  - Review the `/motion-studio` skill files before installing them.
+  - Use reference pins for style only; do not reproduce other people's artwork.
+- **Source:** Notion guide "Make a Collage Explainer Animated in Code with Claude".
+
 ## Decision rule
 
 Applied to roadmap items as much as to products:
